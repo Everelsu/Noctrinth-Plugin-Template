@@ -1,0 +1,6 @@
+/* Custom CSS theme for Noctrinth */
+:root.dark-mode {
+	--color-brand: #a855f7;
+	--color-brand-highlight: rgba(168, 85, 247, 0.22);
+	--color-brand-shadow: rgba(168, 85, 247, 0.35);
+}
